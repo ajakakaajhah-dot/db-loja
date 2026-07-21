@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camiseta Essential",
+      "price": 59.9,
+      "image": "https://via.placeholder.com/300?text=Camiseta",
+      "description": "Camiseta 100% algodão, confortável e durável."
+    },
+    {
+      "id": 2,
+      "name": "Tênis Runner Pro",
+      "price": 189,
+      "image": "https://via.placeholder.com/300?text=Tênis",
+      "description": "Tênis esportivo com amortecimento e respirabilidade."
+    },
+    {
+      "id": 3,
+      "name": "Mochila Urbana",
+      "price": 99.9,
+      "image": "https://via.placeholder.com/300?text=Mochila",
+      "description": "Mochila compacta com compartimento para notebook."
+    },
+    {
+      "id": 4,
+      "name": "Relógio Digital",
+      "price": 149.9,
+      "image": "https://via.placeholder.com/300?text=Relógio",
+      "description": "Relógio com display digital, resistente à água."
+    }
+  ],
+  "nextId": 5
+}
