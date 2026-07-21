@@ -5,14 +5,14 @@
       "name": "Camiseta Essential",
       "price": 59.9,
       "image": "https://via.placeholder.com/300?text=Camiseta",
-      "description": "Camiseta 100% algodÃ£o, confortÃ¡vel e durÃ¡vel."
+      "description": "Camiseta 100% algodão, confortável e durável."
     },
     {
       "id": 2,
-      "name": "TÃªnis Runner Pro",
+      "name": "Tênis Runner Pro",
       "price": 189,
-      "image": "https://via.placeholder.com/300?text=TÃªnis",
-      "description": "TÃªnis esportivo com amortecimento e respirabilidade."
+      "image": "https://via.placeholder.com/300?text=Tênis",
+      "description": "Tênis esportivo com amortecimento e respirabilidade."
     },
     {
       "id": 3,
@@ -23,10 +23,10 @@
     },
     {
       "id": 4,
-      "name": "RelÃ³gio Digital",
+      "name": "Relógio Digital",
       "price": 149.9,
-      "image": "https://via.placeholder.com/300?text=RelÃ³gio",
-      "description": "RelÃ³gio com display digital, resistente Ã  Ã¡gua."
+      "image": "https://via.placeholder.com/300?text=Relógio",
+      "description": "Relógio com display digital, resistente à água."
     }
   ],
   "nextId": 5
